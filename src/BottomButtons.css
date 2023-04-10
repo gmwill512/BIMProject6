@@ -1,0 +1,27 @@
+.BottomButtonsContainer{
+    display: flex;
+    flex-direction: row;
+    width:500px;
+    justify-content: left;
+    align-items: left;
+}
+
+.buttonOn{
+    height: 40px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0px 1px 0px 0px lightgray;
+    border: 1px solid lightgray;
+    cursor: pointer;
+    margin: 10px
+}
+
+.buttonOff{
+    height: 40px;
+    border-radius: 5px;
+    background-color: blue;
+    border:1px white solid;
+    color: white;
+    cursor: pointer;
+    margin: 10px
+}

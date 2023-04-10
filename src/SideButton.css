@@ -1,0 +1,65 @@
+.buttonON{
+    height:15px;
+    width:50px;
+    border: none;
+    border-radius:20px;
+    cursor:pointer;
+    align-items: center;
+    display: flex;
+    align-items: center;
+
+}
+
+.buttonOFF{
+    height:15px;
+    width:50px;
+    border:none;
+    border-radius:20px;
+    cursor:pointer;
+    display: flex;
+    align-items: center;
+}
+
+.slider{
+    height: 25px;
+    width:  25px;
+    border-radius: 20px;
+    cursor:pointer;
+    background-color: grey;
+    border:none
+}
+
+
+.buttonsContainer{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttonContainer{
+    margin: 20px 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.image{
+    height: 40px;
+    border:none;
+    background-color: green;
+    margin-left: 15px
+}
+
+.description{
+    margin-left: 20px;
+    width:150px
+}
+
+
+.title{
+    text-align: center;
+}
+

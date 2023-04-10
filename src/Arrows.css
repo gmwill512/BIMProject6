@@ -1,0 +1,6 @@
+.arrowContainer{
+    width:1500px;
+    display: flex;
+    flex-direction: row;
+}
+
